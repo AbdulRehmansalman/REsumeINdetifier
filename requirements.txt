@@ -1,4 +1,6 @@
-gradio
-streamlit
-pdfplumber
-transformers
+gradio>=4.0.0
+pdfplumber>=0.10.0
+transformers>=4.30.0
+torch>=2.0.0
+modal>=0.62.0
+fastapi[standard]>=0.115.0
